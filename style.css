@@ -4,17 +4,17 @@ body {
 	
 }
 
-#headerpic img{
+#headerpic img {
 	
 	display: block;
 	margin: 0 auto;
 	width: 591px;
 }
 
-#header  ul{
+#header  ul {
 	display: block;
 	margin: -12px auto;
-    width: 592px;
+        width: 592px;
 	height: 100px;
 	list-style-type: none;
 	padding: 0;
@@ -47,10 +47,10 @@ body {
 }
 
 
-#refs  ul{
+#refs  ul {
 	display: block;
 	margin: -12px auto;
-    width: 592px;
+        width: 592px;
 	height: 100px;
 	list-style-type: none;
 	padding: 0;
